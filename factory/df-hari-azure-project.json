@@ -1,0 +1,9 @@
+{
+	"name": "df-hari-azure-project",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2e9200f2-7e9d-4644-9784-a7ecd961b140",
+		"tenantId": "3231f970-4d5c-408d-b93f-b409810fc669"
+	}
+}
